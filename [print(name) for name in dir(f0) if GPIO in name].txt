@@ -1,0 +1,23 @@
+>>> [print(name) for name in dir(f0) if GPIO in name]
+GPIO_MODE_ANALOG
+                GPIO_MODE_INPUT
+                               GPIO_MODE_INTERRUPT_FALL
+                                                       GPIO_MODE_INTERRUPT_RISE
+                                                                               GPIO_MODE_OUTPUT_OPEN_DRAIN
+                                                                                                          GPIO_MODE_OUTPUT_PUSH_PULL
+                                                                                                                                    GPIO_PIN_PA4
+                                                                                                                                                GPIO_PIN_PA6
+                                                                                                                                                            GPIO_PIN_PA7
+                                                                                                                                                                        GPIO_PIN_PB2
+                                                                                                                                                                                    GPIO_PIN_PB3
+                                                                                                                                                                                                GPIO_PIN_PC0
+                                                                                                                                                                                                            GPIO_PIN_PC1
+                                                                                                                                                                                                                        GPIO_PIN_PC3
+                                                                                                                                                                                                                                    GPIO_PULL_DOWN
+                                                                                                                                                                                                                                                  GPIO_PULL_NO
+                                                                                                                                                                                                                                                              GPIO_PULL_UP
+                                                                                                                                                                                                                                                                          GPIO_SPEED_HIGH
+ GPIO_SPEED_LOW
+               GPIO_SPEED_MEDIUM
+                                GPIO_SPEED_VERY_HIGH
+                                                    [None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
